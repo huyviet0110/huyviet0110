@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [huyviet]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+[huyviet]: https://huyviet.vn/
+[Facebook]: https://https://www.facebook.com/profile.php?id=100075294702642

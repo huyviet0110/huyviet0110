@@ -1,3 +1,5 @@
+### Hi there 👋
+
 **_“...how can someone who may be losing his mind accurately assess his own sanity?”_**
 
 Tom B. Night, Mind Painter

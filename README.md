@@ -1,8 +1,6 @@
-### Hi there 👋
-
 **_“...how can someone who may be losing his mind accurately assess his own sanity?”_**
 
-― Tom B. Night, Mind Painter
+Tom B. Night, Mind Painter
 
 <!--- 🔭 I’m currently working on [huyviet]-->
 - 💬 Ask me about anything

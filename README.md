@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[Facebook]: https://https://www.facebook.com/profile.php?id=100075294702642
+[Facebook]: https://www.facebook.com/profile.php?id=100075294702642

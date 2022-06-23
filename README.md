@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-**huyviet0110/huyviet0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**_“...how can someone who may be losing his mind accurately assess his own sanity?”_**
 
-- 🔭 I’m currently working on [huyviet]
+― Tom B. Night, Mind Painter
+
+<!--- 🔭 I’m currently working on [huyviet]-->
 - 💬 Ask me about anything
 - 📫 How to reach me: [Facebook]
-- ⚡ Fun fact: abc
+<!--- ⚡ Fun fact: abc-->
 
 ---
 

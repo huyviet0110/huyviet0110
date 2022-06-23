@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pcuabk5odv6f6ettyd5bbic5pm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]]
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pcuabk5odv6f6ettyd5bbic5pm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)

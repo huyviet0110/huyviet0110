@@ -24,7 +24,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-299-blue)
 
@@ -32,7 +32,7 @@
 
 > 🏆 57 Contributions in the Year 2022
  > 
-> 📦 101 Bytes Used in GitHub's Storage 
+> 📦 102 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,16 @@ Sunday       7 commits      ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 49 mins        █████████████████████░░░░   86.62% 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+Java                     36 mins             ██████████████████████░░░   90.4% 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.6%
 
 🔥 Editors: 
-Eclipse                  2 hrs 6 mins        █████████████████████████   100.0%
+Eclipse                  40 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/07/2022 17:37:33 UTC
+ Last Updated on 06/07/2022 18:57:47 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

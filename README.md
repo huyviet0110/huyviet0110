@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-295-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-266-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,7 +76,7 @@ Eclipse                  40 mins             ███████████�
 ```
 
 
- Last Updated on 07/07/2022 10:49:40 UTC
+ Last Updated on 07/07/2022 11:42:44 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

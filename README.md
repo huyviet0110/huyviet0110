@@ -32,7 +32,7 @@
 
 > 🏆 57 Contributions in the Year 2022
  > 
-> 📦 189 Bytes Used in GitHub's Storage 
+> 📦 139 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +75,7 @@ Sublime Text             6 hrs 55 mins       ███████████�
 ```
 
 
- Last Updated on 14/07/2022 19:37:36 UTC
+ Last Updated on 14/07/2022 20:46:47 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

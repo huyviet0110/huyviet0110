@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
-- 📫 How to reach me: [Facebook]
+- 📫 How to reach me: [LinkedIn]
 <!-- - ⚡ Fun fact: abc -->
 
 ---
@@ -82,4 +82,4 @@ Sublime Text             26 hrs 4 mins       ███████████�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[Facebook]: https://www.facebook.com/profile.php?id=100075294702642
+[LinkedIn]: https://www.linkedin.com/in/huy-nguyễn-733a23246/

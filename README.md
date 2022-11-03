@@ -26,7 +26,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -81,7 +81,7 @@ PhpStorm                 12 hrs 5 mins       ███████████�
 ```
 
 
- Last Updated on 03/11/2022 16:57:20 UTC
+ Last Updated on 03/11/2022 17:41:42 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

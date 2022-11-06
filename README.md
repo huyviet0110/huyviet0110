@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ Sublime Text             1 hr 37 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/11/2022 09:38:25 UTC
+ Last Updated on 06/11/2022 10:40:17 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

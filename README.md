@@ -40,7 +40,7 @@
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+<!-- > 🔑 0 Private Repositories   -->
  > 
 **I'm a Night 🦉** 
 

@@ -2,7 +2,8 @@
 
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
-- 📫 How to reach me: [Stackoverflow The Key](https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank/){:target="_blank" rel="noopener"}
+- 📫 How to reach me: [EMAIL]
+- <a href="https://google.com" target="_blank">google link</a>
 <!-- - ⚡ Fun fact: abc -->
 
 ---
@@ -87,3 +88,4 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
+[EMAIl]: mailto:huynguyenviet0110@gmail.com

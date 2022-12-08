@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn]
+- 📫 How to reach me: [EMAIL]
 <!-- - ⚡ Fun fact: abc -->
 
 ---
@@ -87,4 +87,5 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[LinkedIn]: https://www.linkedin.com/in/huy-nguyễn-733a23246/
+<!-- [EMAIL]: https://www.linkedin.com/in/huy-nguyễn-733a23246/ -->
+[EMAIL](mailto:admin@cloudhadoop.com){:target="_blank"}

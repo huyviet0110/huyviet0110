@@ -3,7 +3,6 @@
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email]
-- [Contact Us](mailto:admin@cloudhadoop.com)
 <!-- - ⚡ Fun fact: abc -->
 
 ---
@@ -88,4 +87,4 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[EMAIl]: 
+[EMAIl]: https://google.com

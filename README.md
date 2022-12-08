@@ -87,4 +87,4 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[EMAIl]: (https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=huyviet999999@gmail.com)
+[EMAIl]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=huyviet999999@gmail.com

@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
-- 📫 How to reach me: [EMAIL]
+- 📫 How to reach me: <a href="http://google.com" target="_blank"></a>
 <!-- - ⚡ Fun fact: abc -->
 
 ---
@@ -87,4 +87,3 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[EMAIL]: <a href="http://google.com" target="_blank"></a>

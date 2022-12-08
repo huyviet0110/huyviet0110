@@ -87,5 +87,4 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-<!-- [EMAIL]: https://www.linkedin.com/in/huy-nguyễn-733a23246/ -->
-[EMAIL](http://google.com) {:target="_blank"}
+[EMAIL]([url](http://google.com)){:target="_blank"}

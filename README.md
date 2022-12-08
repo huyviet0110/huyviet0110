@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
-- 📫 How to reach me: [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+- 📫 How to reach me: [Stackoverflow The Key](https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank/){:target="_blank" rel="noopener"}
 <!-- - ⚡ Fun fact: abc -->
 
 ---

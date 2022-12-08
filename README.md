@@ -88,4 +88,4 @@ Sublime Text             50 mins             ░░░░░░░░░░░�
 
 [huyviet]: https://huyviet.vn/
 <!-- [EMAIL]: https://www.linkedin.com/in/huy-nguyễn-733a23246/ -->
-[EMAIL](mailto:admin@cloudhadoop.com){:target="_blank"}
+[EMAIL](mailto:admin@cloudhadoop.com) {:target="_blank"}

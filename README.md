@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on [huyviet] -->
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="http://google.com" target="_blank"></a>
+- 📫 How to reach me: <a href="http://google.com" target="_blank">test</a>
 <!-- - ⚡ Fun fact: abc -->
 
 ---

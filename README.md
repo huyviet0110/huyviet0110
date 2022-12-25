@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on [huyviet]
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email]
-- ⚡ Fun fact: abc
 
 ---
 

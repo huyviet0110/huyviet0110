@@ -1,9 +1,9 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
-<!-- - 🔭 I’m currently working on [huyviet] -->
-<!-- - 💬 Ask me about anything -->
-<!-- - 📫 How to reach me: [Email] -->
-<!-- - ⚡ Fun fact: abc -->
+- 🔭 I’m currently working on [huyviet]
+- 💬 Ask me about anything
+- 📫 How to reach me: [Email]
+- ⚡ Fun fact: abc
 
 ---
 
@@ -87,4 +87,4 @@ Sublime Text             49 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/
-[EMAIl]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=huynguyenviet0110@gmail.com -->
+[EMAIl]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=huynguyenviet0110@gmail.com

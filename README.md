@@ -24,7 +24,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -82,7 +82,7 @@ Sublime Text             34 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 22/02/2023 11:33:08 UTC
+ Last Updated on 22/02/2023 12:55:56 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

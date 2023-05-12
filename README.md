@@ -12,6 +12,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/docker.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/amazonaws.svg" />
 <br>
 
 ### Libraries and frameworks:

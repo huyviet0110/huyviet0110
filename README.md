@@ -28,13 +28,13 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C598%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 64.3 kB Used in GitHub's Storage 
+> 📦 64.2 kB Used in GitHub's Storage 
  > 
 > 🏆 90 Contributions in the Year 2023
  > 
@@ -84,7 +84,7 @@ Sublime Text             35 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/05/2023 16:37:44 UTC
+ Last Updated on 18/05/2023 17:33:41 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huyviet.vn/

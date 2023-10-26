@@ -88,5 +88,5 @@ VS Code                  20 hrs 57 mins      █████████░░�
  Last Updated on 26/10/2023 03:34:04 UTC
 <!--END_SECTION:waka-->
 
-[huyviet]: https://huyviet.vn/
+[huyviet]: https://huynguyenviet.vn/
 [EMAIl]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=huynguyenviet0110@gmail.com

@@ -16,7 +16,7 @@
 <br>
 
 ### Language & frameworks & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,laravel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,laravel&theme=dark)](https://skillicons.dev)
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/vue-dot-js.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/node-dot-js.svg" />

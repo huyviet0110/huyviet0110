@@ -33,7 +33,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C154%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C163%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,16 +74,15 @@ Sunday                   373 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    41 hrs 31 mins      █████████████████████████   99.61 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    41 hrs 45 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   34 hrs 12 mins      █████████████████████░░░░   82.04 % 
-VS Code                  7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Chrome                   35 hrs 23 mins      █████████████████████░░░░   84.77 % 
+VS Code                  6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 ```
 
 
- Last Updated on 14/03/2024 17:34:05 UTC
+ Last Updated on 14/03/2024 18:33:38 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huynguyenviet.vn/

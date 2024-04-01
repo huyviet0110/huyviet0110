@@ -33,7 +33,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C260%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C260%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -81,7 +81,7 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/04/2024 09:33:47 UTC
+ Last Updated on 01/04/2024 10:35:25 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huynguyenviet.vn/

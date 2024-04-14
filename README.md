@@ -33,8 +33,6 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C329%20hrs%2047%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -79,7 +77,7 @@ Chrome                   40 hrs 5 mins       ███████████�
 ```
 
 
- Last Updated on 14/04/2024 16:49:31 UTC
+ Last Updated on 14/04/2024 19:47:49 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huynguyenviet.vn/

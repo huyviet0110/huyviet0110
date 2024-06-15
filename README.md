@@ -33,8 +33,6 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C620%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -86,7 +84,7 @@ VS Code                  1 hr 37 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 15/06/2024 16:34:48 UTC
+ Last Updated on 15/06/2024 17:32:35 UTC
 <!--END_SECTION:waka-->
 
 [huyviet]: https://huynguyenviet.vn/
